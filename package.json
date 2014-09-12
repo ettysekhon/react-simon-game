@@ -1,0 +1,26 @@
+{
+  "name": "simon-game",
+  "version": "0.0.0",
+  "description": "Simon Game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Etty Sekhon",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "react": "~0.11.1",
+    "q": "~1.0.1",
+    "lodash": "~2.4.1",
+    "react-router": "~0.5.3",
+    "reactfire": "^0.1.6",
+    "firebase": "^1.0.21",
+    "fastclick": "~1.0.3"
+  },
+  "devDependencies": {
+    "gulp-browserify": "~0.5.0",
+    "gulp-concat": "~2.3.4",
+    "gulp": "~3.8.7",
+    "reactify": "~0.14.0"
+  }
+}
